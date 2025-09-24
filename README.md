@@ -1,0 +1,2 @@
+Refleksi Perbedaan Ephemeral State dan App State
+Ephemeral state adalah data sementara yang hanya relevan di dalam lingkup kecil dan tidak perlu dipertahankan lama, sedangkan app state adalah data utama yang perlu dikelola lebih luas dan berpengaruh pada keseluruhan aplikasi. Dari pembelajaran ini saya menyadari pentingnya membedakan keduanya agar struktur program lebih jelas, penggunaan data lebih efisien, dan proses pengembangan aplikasi menjadi lebih terarah.
